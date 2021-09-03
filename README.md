@@ -1,1 +1,1 @@
-"# Drag-and-Drop-Page-Builder-vvvebjs" 
+"# drag-drop-multiple-picture-upload-in-dropzone" 
