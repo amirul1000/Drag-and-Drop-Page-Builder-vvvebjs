@@ -1,8 +1,6 @@
 "# Drag-and-Drop-Page-Builder-vvvebjs" 
 
-Youtube Tutorial :https://youtu.be/PEu0GpyVS2g
-
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
+Youtube Tutorial :https://youtu.be/cjTdp_Lh7OI
 
 Donate to Paypal : patabuz@gmail.com
 
